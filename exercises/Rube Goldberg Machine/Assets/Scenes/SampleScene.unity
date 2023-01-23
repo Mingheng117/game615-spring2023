@@ -391,6 +391,25 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 418ca6440ade57c459903fddb77f4386, type: 3}
+--- !u!1 &691174004 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -8174114379414323480, guid: 418ca6440ade57c459903fddb77f4386, type: 3}
+  m_PrefabInstance: {fileID: 663092621}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &691174006
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 691174004}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: 6208656643081471541, guid: 418ca6440ade57c459903fddb77f4386, type: 3}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -676,6 +695,44 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 105e925af28073143aa3d6c2412856ff, type: 3}
+--- !u!1 &1223118568 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -2269500937332750102, guid: 194a3ad025dfa2740b32152aa7a0f80d, type: 3}
+  m_PrefabInstance: {fileID: 455810189}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1223118572
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1223118568}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -6169151841386255247, guid: 194a3ad025dfa2740b32152aa7a0f80d, type: 3}
+--- !u!1 &1252414403 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: -3998839010722928496, guid: f93bfd012a8295d449ae3a990a74f098, type: 3}
+  m_PrefabInstance: {fileID: 355053600}
+  m_PrefabAsset: {fileID: 0}
+--- !u!64 &1252414407
+MeshCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1252414403}
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_Enabled: 0
+  serializedVersion: 4
+  m_Convex: 0
+  m_CookingOptions: 30
+  m_Mesh: {fileID: -4548727101508622366, guid: f93bfd012a8295d449ae3a990a74f098, type: 3}
 --- !u!1 &1355101413
 GameObject:
   m_ObjectHideFlags: 0
