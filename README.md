@@ -53,7 +53,7 @@ Control the cat to eat the big fish.
 
 [**Playable link to game**](https://mingheng117.github.io/game615-spring2023-03/exercise03/play/)
 
-[**Link to source**](https://github.com/Mingheng117/game615-spring2023-03/tree/main/exercise03)
+[**Link to source**](https://github.com/Mingheng117/game615-spring2023-03)
 
 ________________________________________________________
 
