@@ -13,7 +13,7 @@ N/A
 
 [**Playable link to game**](https://mingheng117.github.io/game615-spring2023/exercises/exercise01/play/)
 
-[**Link to source**](https://github.com/Mingheng117/game615-spring2023/tree/main/exercises/exercise01)
+[**Link to source (GitHub page)**](https://github.com/Mingheng117/game615-spring2023/tree/main/exercises/exercise01)
 
 ________________________________________________________
 
@@ -32,7 +32,7 @@ Relax and have fun.
 
 [**Playable link to game**](https://mingheng117.github.io/game615-spring2023/exercises/exercise02/play/)
 
-[**Link to source**](https://github.com/Mingheng117/game615-spring2023/tree/main/exercises/exercise02) 
+[**Link to source (GitHub page)**](https://github.com/Mingheng117/game615-spring2023/tree/main/exercises/exercise02) 
 
 ________________________________________________________
 
@@ -53,7 +53,7 @@ Control the cat to eat the big fish.
 
 [**Playable link to game**](https://mingheng117.github.io/game615-spring2023-03/exercise03/play/)
 
-[**Link to source**](https://github.com/Mingheng117/game615-spring2023-03)
+[**Link to source (GitHub page)**](https://github.com/Mingheng117/game615-spring2023-03)
 
 ________________________________________________________
 
@@ -74,7 +74,7 @@ Fly through the donuts to get as many points as possible.
 
 [**Playable link to game**](https://senseicanada.github.io/game615-spring2023-04/exercise04/play/) 
 
-[**Link to source (GitHub page)**](https://github.com/SenseiCanada/game615-spring2023-04/tree/main/exercise04) 
+[**Link to source (GitHub page)**](https://github.com/SenseiCanada/game615-spring2023-04) 
 
 ________________________________________________________
 
