@@ -1,7 +1,7 @@
 # game615-spring2023
  
  
-**Exercise 1:** _"Rube Goldberg Machine"_
+**Exercise 01:** _"Rube Goldberg Machine"_
 
 **Individual:** Mingheng
 
@@ -20,7 +20,7 @@ ________________________________________________________
 
 ________________________________________________________
  
-**Exercise 2:** _"Eating Fish"_
+**Exercise 02:** _"Eating Fish"_
 
 **Individual:** Mingheng Li
 
@@ -39,7 +39,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-**Exercise 3:** _"Untitled"_
+**Exercise 03:** _"Untitled"_
 
 **Group team:** Zhuqing Gao & Yihua Pu & Mingheng Li 
 
@@ -61,7 +61,7 @@ ________________________________________________________
 ________________________________________________________
 
 
-**Exercise 4:** _"Untitled"_
+**Exercise 04:** _"Untitled"_
 
 **Group team:** Jacob Laden-Guindon & Mingheng Li
 
@@ -81,7 +81,7 @@ ________________________________________________________
 
 ________________________________________________________
 
-**Exercise 5:** _"Coffee run"_
+**Exercise 05:** _"Coffee run"_
 
 **Group team:** HongCheng & MingHeng & Justin
 
