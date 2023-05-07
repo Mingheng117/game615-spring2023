@@ -28,7 +28,7 @@ ________________________________________________________
 - Space bar to jump
 
 **Game goal:** 
-Keep pressing "Space".
+Relax and have fun.
 
 [**Playable link to game**](https://mingheng117.github.io/game615-spring2023/exercises/exercise02/play/)
 
