@@ -6,7 +6,7 @@
 **Individual:** Mingheng
 
 **How to play:** 
-- Load the page
+- R to reload the page
 
 **Game goal:** 
 N/A
